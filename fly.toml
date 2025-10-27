@@ -1,0 +1,10 @@
+app = "gubaeze4kbot"
+primary_region = "iad"
+
+[build]
+
+[env]
+
+[processes]
+  app = "python3 main.py"
+
